@@ -1,0 +1,2 @@
+# bad-character
+🚫 bad characters
